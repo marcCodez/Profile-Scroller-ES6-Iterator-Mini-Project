@@ -1,0 +1,1 @@
+A basic project using the ES6 iterator feature that allows you to scroll through profiles like the tinder app. Project from Brad Traversy's Modern JavaScript from the beginning course. Try it on: https://marccodez.github.io/Profile-Scroller-ES6-Iterator-Mini-Project/
